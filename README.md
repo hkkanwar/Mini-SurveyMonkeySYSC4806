@@ -4,6 +4,13 @@
 # Description
 This project aims to implement a survey creation tool, empowering users to create and conduct surveys effortlessly. Leveraging NoSQL technology (MongoDB), Spring, and Java, this application offers a dynamic platform for surveyors to create surveys with different question types, including text, numeric range, and multiple-choice questions. Leveraging NoSQL specifically removes the need for having a predefined schema, allowing us to store forms where the structure of questions and responses vary from survey to survey along with adapting to changing survery requirements without altering the database structure.
 
+Contributers:
+- Harsimran Kanwar
+- Shuvaethy Neill
+- Jack MacKinnon
+- Guy Morgenshtern
+- Andre Hazim
+
 # Installation + Setup
 **Deployed Version:**
 
